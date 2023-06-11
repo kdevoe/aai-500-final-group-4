@@ -1,0 +1,152 @@
+﻿Code,Description,Used
+  STATEFIPS,The state federal information processing system (FIPS) code,0
+  STATE,State associated with zip code,0
+  ZIPCODE,5-digit zip code,0
+  AGI_STUB,Size of adjusted gross income,0
+  N1,Number of returns,0
+  MARS1,Number of single returns,1
+  MARS2,Number of joint returns,1
+  MARS4,Number of head of household returns,1
+  ELF,Number of electronically filed returns,0
+  CPREP,Number of computer prepared paper returns,0
+  PREP,Number of returns with paid preparer's signature,0
+  DIR_DEP,Number of returns with direct deposit,0
+  N2,Number of exemptions,0
+  NUMDEP,Number of dependents,1
+  TOTAL_VITA,Total number of volunteer prepared returns [3],0
+  VITA,Number of volunteer income tax assistance (VITA) prepared returns [3],0
+  TCE,Number of tax counseling for the elderly (TCE) prepared returns [3],0
+  VITA_EIC,Number of volunteer prepared returns with Earned Income Credit [3],0
+  RAC,Number of refund anticipation check returns,0
+  ELDERLY,Number of elderly returns [4],0
+  A00100,Adjusted gross income (AGI) [5],1
+  N02650,Number of returns with total income,1
+  A02650,Total income amount,1
+  N00200,Number of returns with salaries and wages,0
+  A00200,Salaries and wages amount,1
+  N00300,Number of returns with taxable interest,0
+  A00300,Taxable interest amount,1
+  N00600,Number of returns with ordinary dividends ,0
+  A00600,Ordinary dividends amount,0
+  N00650,Number of returns with qualified dividends,0
+  A00650,Qualified dividends amount [6],0
+  N00700,Number of returns with state and local income tax refunds,0
+  A00700,State and local income tax refunds amount,0
+  N00900,Number of returns with business or professional net income (less loss),0
+  A00900,Business or professional net income (less loss) amount,1
+  N01000,Number of returns with net capital gain (less loss),0
+  A01000,Net capital gain (less loss) amount,1
+  N01400,Number of returns with taxable individual retirement arrangements distributions,0
+  A01400,Taxable individual retirement arrangements distributions amount,0
+  N01700,Number of returns with taxable pensions and annuities,0
+  A01700,Taxable pensions and annuities amount,1
+  SCHF,Number of farm returns,1
+  N02300,Number of returns with unemployment compensation,0
+  A02300,Unemployment compensation amount [7],1
+  N02500,Number of returns with taxable Social Security benefits,0
+  A02500,Taxable Social Security benefits amount,1
+  N26270,Number of returns with partnership/S-corp net income (less loss),1
+  A26270,Partnership/S-corp net income (less loss) amount,0
+  N02900,Number of returns with total statutory adjustments,0
+  A02900,Total statutory adjustments amount,0
+  N03220,Number of returns with educator expenses,1
+  A03220,Educator expenses amount,0
+  N03300,Number of returns with Self-employed (Keogh) retirement plans,0
+  A03300,Self-employed (Keogh) retirement plans amount,1
+  N03270,Number of returns with Self-employed health insurance deduction,0
+  A03270,Self-employed health insurance deduction amount,0
+  N03150,Number of returns with Individual retirement arrangement payments,1
+  A03150,Individual retirement arrangement payments amount,0
+  N03210,Number of returns with student loan interest deduction,1
+  A03210,Student loan interest deduction amount,0
+  N03230,Number of returns with tuition and fees deduction,1
+  A03230,Tuition and fees deduction amount,0
+  N03240,Returns with domestic production activities deduction,0
+  A03240,Domestic production activities deduction amount,0
+  N04470,Number of returns with itemized deductions,0
+  A04470,Total itemized deductions amount,0
+  A00101,Amount of AGI for itemized returns,0
+  N17000,Number of returns with Total medical and dental expense deduction,0
+  A17000,Total medical and dental expense deduction amount,1
+  N18425,Number of returns with State and local income taxes,0
+  A18425,State and local income taxes amount,1
+  N18450,Number of returns with State and local general sales tax,0
+  A18450,State and local general sales tax amount,0
+  N18500,Number of returns with real estate taxes,0
+  A18500,Real estate taxes amount,1
+  N18800,Number of returns with Personal property taxes,0
+  A18800,Personal property taxes amount,0
+  N19300,Number of returns with Home mortgage interest paid,0
+  A19300,Home mortgage interest paid amount,1
+  N19500,Number of returns with Home mortgage from personal seller,0
+  A19500,Home mortgage from personal seller amount,0
+  N19530,Number of returns with Deductible points,0
+  A19530,Deductible points amount,0
+  N19550,Number of returns with Qualified Mortgage Insurance premiums,0
+  A19550,Qualified Mortgage Insurance premiums amount,0
+  N19570,Number of returns with Investment interest paid,1
+  A19570,Investment interest paid amount,0
+  N19700,Number of returns with Total charitable contributions,0
+  A19700,Total charitable contributions amount,1
+  N20800,Number of returns with Net limited miscellaneous deduction,0
+  A20800,Net limited miscellaneous deduction amount,0
+  N20950,Number of returns with Gambling loss deduction and other non-limited miscellaneous deduction,0
+  A20950,Gambling loss deduction and other non-limited miscellaneous deduction amount,1
+  N04800,Number of returns with taxable income,1
+  A04800,Taxable income amount,1
+  N05800,Number of returns with income tax before credits,0
+  A05800,Income tax before credits amount,0
+  N09600,Number of returns with alternative minimum tax ,0
+  A09600,Alternative minimum tax amount,0
+  N05780,Number of returns with excess advance premium tax credit repayment,0
+  A05780,Excess advance premium tax credit repayment amount,0
+  N07100,Number of returns with total tax credits,0
+  A07100,Total tax credits amount,0
+  N07300,Number of returns with foreign tax credit,0
+  A07300,Foreign tax credit amount,1
+  N07180,Number of returns with child and dependent care credit,1
+  A07180,Child and dependent care credit amount,1
+  N07230,Number of returns with nonrefundable education credit,0
+  A07230,Nonrefundable education credit amount,0
+  N07240,Number of returns with retirement savings contribution credit,0
+  A07240,Retirement savings contribution credit amount,0
+  N07220,Number of returns with child tax credit,1
+  A07220,Child tax credit amount,1
+  N07260,Number of returns with residential energy tax credit,0
+  A07260,Residential energy tax credit amount,0
+  N09400,Number of returns with self-employment tax,1
+  A09400,Self-employment tax amount,1
+  N85770,Number of returns with total premium tax credit,0
+  A85770,Total premium tax credit amount,0
+  N85775,Number of returns with advance premium tax credit,0
+  A85775,Advance premium tax credit amount,0
+  N09750,Number of returns with health care individual responsibility payment,0
+  A09750,Health care individual responsibility payment amount,0
+  N10600,Number of returns with total tax payments,0
+  A10600,Total tax payments amount,1
+  N59660,Number of returns with earned income credit,0
+  A59660,Earned income credit amount [8]  ,0
+  N59720,Number of returns with excess earned income credit,0
+  A59720,Excess earned income credit (refundable) amount [9]  ,0
+  N11070,Number of returns with additional child tax credit,1
+  A11070,Additional child tax credit amount,1
+  N10960,Number of returns with refundable education credit,0
+  A10960,Refundable education credit amount,0
+  N11560,Number of returns with net premium tax credit,0
+  A11560,Net premium tax credit amount,0
+  N06500,Number of returns with income tax,1
+  A06500,Income tax amount [10]  ,1
+  N10300,Number of returns with tax liability,0
+  A10300,Total tax liability amount [11]  ,0
+  N85530,Number of returns with additional Medicare tax,0
+  A85530,Additional Medicare tax amount,0
+  N85300,Number of returns with net investment income tax,0
+  A85300,Net investment income tax amount,1
+  N11901,Number of returns with tax due at time of filing,0
+  A11901,Tax due at time of filing amount [12]  ,0
+  N11900,Number of returns with total overpayments,0
+  A11900,Total overpayments amount,0
+  N11902,Number of returns with overpayments refunded,0
+  A11902,Overpayments refunded amount [13]  ,0
+  N12000,Number of returns with credit to next year’s estimated tax,0
+  A12000,Credited to next year’s estimated tax amount,0
