@@ -3,7 +3,7 @@ bin
 17zpallagi.csv
 .ipynb_checkpoints
 MarketHealthIndex_Zip.csv
-
+17zpallnoagi.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
