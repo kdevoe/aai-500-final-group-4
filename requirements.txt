@@ -3,3 +3,7 @@ numpy
 matplotlib
 pandas
 scikit-learn
+xgboost
+plotly
+tqdm
+statsmodels
